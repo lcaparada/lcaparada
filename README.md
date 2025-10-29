@@ -26,7 +26,8 @@ Desenvolvedor Full-Stack / Mobile | Apaixonado por tecnologia e aprendizado cont
 - [CigZero Mobile App](https://github.com/lcaparada/cig-zero-mobile-app) – App para ajudar pessoas a parar de fumar  
 - [Landing Page](https://github.com/lcaparada/landing-page) – Landing page moderna com Next.js e shadcn/ui  
 - [API Clean Code](https://github.com/lcaparada/api-clean-code) – API RESTful seguindo princípios de Clean Code  
-- [Encurtadora de Link API](https://github.com/lcaparada/encurtadora-de-link-api) – CRUD e autenticação de links curtos  
+- [Encurtadora de Link API](https://github.com/lcaparada/encurtadora-de-link-api) – CRUD e autenticação de links curtos
+- [API Go Produtos](https://github.com/lcaparada/api-golang) – API RESTful de produtos em Go, Gin e PostgreSQL
 
 ---
 
