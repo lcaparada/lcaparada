@@ -24,10 +24,11 @@ Desenvolvedor Full-Stack / Mobile | Apaixonado por tecnologia e aprendizado cont
 ## 📂 Projetos em destaque
 
 - [CigZero Mobile App](https://github.com/lcaparada/cig-zero-mobile-app) – App para ajudar pessoas a parar de fumar  
-- [Landing Page](https://github.com/lcaparada/landing-page) – Landing page moderna com Next.js e shadcn/ui  
+- [Marketplace de NFTs](https://github.com/lcaparada/starsoft-frontend-challenge) – Marketplace de NFTs
 - [API Clean Code](https://github.com/lcaparada/api-clean-code) – API RESTful seguindo princípios de Clean Code  
-- [Encurtadora de Link API](https://github.com/lcaparada/encurtadora-de-link-api) – CRUD e autenticação de links curtos
-- [API Go Produtos](https://github.com/lcaparada/api-golang) – API RESTful de produtos em Go, Gin e PostgreSQL
+- [Encurtadora de Link API](https://github.com/lcaparada/url-shortener) – API Encurtadora de link
+- [Catalog Service](https://github.com/lcaparada/catalog-service) – API de catálogo de produtos com Clean Architecture, MongoDB e RabbitMQ
+- [Auction Service](https://github.com/lcaparada/auction-service) - API de leilões serverless com Clean Architecture, MongoDB e AWS Lambda
 
 ---
 
