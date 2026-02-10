@@ -30,14 +30,6 @@ Desenvolvedor Full-Stack / Mobile | Apaixonado por tecnologia e aprendizado cont
 - [Catalog Service](https://github.com/lcaparada/catalog-service) – API de catálogo de produtos com Clean Architecture, MongoDB e RabbitMQ
 - [Auction Service](https://github.com/lcaparada/auction-service) - API de leilões serverless com Clean Architecture, MongoDB e AWS Lambda
 
----
-
-## 📊 Estatísticas
-
-![Lucas Parada GitHub Stats](https://github-readme-stats.vercel.app/api?username=lcaparada&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-parada-4a2136247/)  
