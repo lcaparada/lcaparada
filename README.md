@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas 👋
 
-Desenvolvedor Full-Stack / Mobile | Apaixonado por tecnologia e aprendizado contínuo 🚀
+Desenvolvedor React / Mobile / FullStack | Apaixonado por tecnologia e aprendizado contínuo 🚀
 
 ---
 
