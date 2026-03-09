@@ -34,3 +34,4 @@ Desenvolvedor React / Mobile / FullStack | Apaixonado por tecnologia e aprendiza
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-parada-4a2136247/)  
 - Email: [lcaparada@gmail.com](mailto:lcaparada@gmail.com)
+- Telefone: +55 (21) 98812-6131
